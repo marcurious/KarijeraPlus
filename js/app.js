@@ -2,7 +2,7 @@ window.onload = function () {
   // Initialize the Google SDK
   gapi.load('auth2', function () {
     gapi.auth2.init({
-      client_id: 'YOUR_CLIENT_ID',
+      client_id: '238561646156-lc2hu8143guqlgrs82o9gdckomitqnub.apps.googleusercontent.com',
       scope: 'profile email'
     });
   });
